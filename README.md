@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/DirectX-1572B6?style=flat-square&logo=directx&logoColor=white" alt="DirectX">
+    <img src="https://softwarekaufen24.de/blog/wp-content/uploads/2022/04/DirectX-%E2%80%93-alles-Wissenswerte-zusammengefasst.png" width="35" height="20" alt="DirectX">
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio">
 </div>
