@@ -35,10 +35,6 @@
 - **Graphics APIs:** DirectX 11
 - **Tools & Software:** Visual Studio, VS Code, Git, Blender, Unity, Matplotlib, VS Debugger, Graphics Debugger
 
-### 🏆 Achievements
-- **NTSE Scholar 2021**
-- **All India Rank 2364 | KVPY SA Stream 2022**
-
 
 
 Feel free to explore my repositories, contribute to my projects, or reach out if you're interested in collaborating on anything exciting in the world of graphics programming!
