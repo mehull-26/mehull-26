@@ -1,45 +1,55 @@
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=mehull-26&color=blue" alt="Profile Views">
-</div>
-
-<div align="center">
-    <a href="[https://www.linkedin.com/in/mehul-yadav-b2394324a/](https://www.linkedin.com/in/mehul-yadav-12718428b/)">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:Mehulsingh.2605@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-</div>
-<H1 align="center">Hi, I'm Mehul Yadav 👋</H1>
-<H3 align="center">An undergraduate at IITR,<br> with a passion for <em>computer graphics</em> and <em>graphic programming</em> 👋</H1>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://softwarekaufen24.de/blog/wp-content/uploads/2022/04/DirectX-%E2%80%93-alles-Wissenswerte-zusammengefasst.png" width="35" height="20" alt="DirectX">
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio">
-</div>
 
 
-
-
-### 🌟 Interests
-- **Physically Based Rendering (PBR):** Crafting realistic materials and lighting models to achieve lifelike visuals.
-- **Graphic Programming:** Developing efficient algorithms and techniques to push the limits of real-time rendering.
-- **Computer Architecture:** Understanding the underlying hardware that powers modern graphics and optimizing performance for better results.
-
-### 🛠️ Technical Skills
-- **Languages:** C#, C/C++, Python
-- **Graphics APIs:** DirectX 11
-- **Tools & Software:** Visual Studio, VS Code, Git, Blender, Unity, Matplotlib, VS Debugger, Graphics Debugger
-
-
-
-Feel free to explore my repositories, contribute to my projects, or reach out if you're interested in collaborating on anything exciting in the world of graphics programming!
+<h1 align="center">Mehul Yadav</h1>
+<h3 align="center">Engineering Physics Undergraduate at IIT Roorkee</h3>
+<p align="center">
+  Exploring intersections of physics, computer science, and computational techniques.
+</p>
 
 ---
 
+## About Me
 
+I'm an undergraduate student pursuing Engineering Physics at IIT Roorkee. My academic journey has led me to explore various domains where physics and computation intersect. While my repository collection is modest, each project represents a step in my continuous learning process.
+
+---
+
+## Technical Skills
+
+- **Programming Languages:**  
+  Proficient in C++, C, and Python. Familiar with C#.
+
+- **Tools and Frameworks:**  
+  Experience with DirectX11 for graphics programming. Comfortable using Visual Studio and Git for development and version control.
+
+
+---
+
+## Learning Focus
+
+Currently, I'm delving deeper into:
+
+- **Computational Geometry:**  
+  Studying algorithms and data structures that facilitate the processing of geometric data.
+
+- **Machine Learning and AI:**  
+  Exploring the foundational concepts and mathematical underpinnings of machine learning models.
+
+- **Computer Graphics:**  
+  Enhancing my understanding of rendering techniques and graphics pipeline optimization.
+
+- **Computational Neuroscience:**  
+  Relatively new to this field, learning about biology of neurons, models simulating their spike behaviour.
+
+---
+
+## Aspirations
+
+I aim to contribute to projects that bridge the gap between theoretical physics and practical computational applications. While my repository collection is a work in progress, I'm committed to expanding it with meaningful and impactful projects.
+
+---
+
+## Let's Connect
+
+I'm always open to discussions, collaborations, or simply exchanging ideas. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mehul-yadav-12718428b/) or [email](mailto:Mehulsingh.2605@gmail.com).
 
