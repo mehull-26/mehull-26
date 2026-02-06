@@ -1,55 +1,78 @@
-
-
 <h1 align="center">Mehul Yadav</h1>
-<h3 align="center">Engineering Physics Undergraduate at IIT Roorkee</h3>
+<h3 align="center">Engineering Physics @ IIT Roorkee</h3>
 <p align="center">
-  Exploring intersections of physics, computer science, and computational techniques.
+  C++ • Simulation • Graphics • Systems
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm an undergraduate student pursuing Engineering Physics at IIT Roorkee. My academic journey has led me to explore various domains where physics and computation intersect. While my repository collection is modest, each project represents a step in my continuous learning process.
+I build systems from first principles in C++.  
+My work sits around simulation, graphics, and computational modelling of physical processes.
 
----
+Graphics pulled me into low-level computing: rendering pipelines, GPU parallelism, and how math becomes visuals. That eventually extended into numerical simulation and system design.
 
-## Technical Skills
-
-- **Programming Languages:**  
-  Proficient in C++, C, and Python. Familiar with C#.
-
-- **Tools and Frameworks:**  
-  Experience with DirectX11 for graphics programming. Comfortable using Visual Studio and Git for development and version control.
-
+Current priorities:
+- Data structures & algorithms
+- Large-scale Hodgkin–Huxley simulation
+- Returning to graphics through small rendering experiments
 
 ---
 
-## Learning Focus
+## Selected Work
 
-Currently, I'm delving deeper into:
+**Neuron Simulation**
+- Izhikevich model implementation (Brian2 backend)
+- Ongoing large-scale Hodgkin–Huxley GPU simulator  
+Focus: numerical correctness and performance
 
-- **Computational Geometry:**  
-  Studying algorithms and data structures that facilitate the processing of geometric data.
+**Graphics & Systems**
+- DirectX11 experience  
+- Rendering pipeline + GPU fundamentals  
+- Interested in light transport and simulation-driven graphics
 
-- **Machine Learning and AI:**  
-  Exploring the foundational concepts and mathematical underpinnings of machine learning models.
+**Game Systems**
+- Rewrote the architecture of a 2D pixel game  
+- FSM for behavioural dynamics + stack-based FSM for AI  
+Focus: clean system design
 
-- **Computer Graphics:**  
-  Enhancing my understanding of rendering techniques and graphics pipeline optimization.
-
-- **Computational Neuroscience:**  
-  Relatively new to this field, learning about biology of neurons, models simulating their spike behaviour.
+**Course Work**
+- Inverse/differential rendering project  
+- Microscopy interface with PSF modeling  
 
 ---
 
-## Aspirations
+## Skills
 
-I aim to contribute to projects that bridge the gap between theoretical physics and practical computational applications. While my repository collection is a work in progress, I'm committed to expanding it with meaningful and impactful projects.
+**Languages**  
+C++ (primary), C, C#, Python
+
+**Strengths**  
+Systems programming  
+Simulation & modeling  
+Graphics fundamentals  
+Parallelism  
+DSA
+
+**Tools**  
+Git  
+Visual Studio  
+DirectX11  
+Basic simulation/graphics tooling  
 
 ---
 
-## Let's Connect
+## Current Focus
 
-I'm always open to discussions, collaborations, or simply exchanging ideas. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mehul-yadav-12718428b/) or [email](mailto:Mehulsingh.2605@gmail.com).
+- DSA
+- HH neuron simulation
+- Low-level C++ depth
+- Small renderer experiments
 
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/mehul-yadav-12718428b/
+- Email: Mehulsingh.2605@gmail.com
