@@ -75,4 +75,4 @@ Basic simulation/graphics tooling
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mehul-yadav-12718428b/
-- Email: Mehulsingh.2605@gmail.com
+- Email: mehulyadav2605@gmail.com
