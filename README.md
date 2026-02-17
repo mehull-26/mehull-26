@@ -8,14 +8,14 @@
 
 ## About
 
-I build systems from first principles in C++.  
+I like building systems from first principles.  
 My work sits around simulation, graphics, and computational modelling of physical processes.
 
 Graphics pulled me into low-level computing: rendering pipelines, GPU parallelism, and how math becomes visuals. That eventually extended into numerical simulation and system design.
 
 Current priorities:
 - Data structures & algorithms
-- Large-scale Hodgkin–Huxley simulation
+- Biophysical neuron model simulation
 - Returning to graphics through small rendering experiments
 
 ---
@@ -24,7 +24,7 @@ Current priorities:
 
 **Neuron Simulation**
 - Izhikevich model implementation (Brian2 backend)
-- Ongoing large-scale Hodgkin–Huxley GPU simulator  
+- Ongoing large-scale Biophysical neuron model GPU simulation  
 Focus: numerical correctness and performance
 
 **Graphics & Systems**
@@ -32,14 +32,13 @@ Focus: numerical correctness and performance
 - Rendering pipeline + GPU fundamentals  
 - Interested in light transport and simulation-driven graphics
 
-**Game Systems**
-- Rewrote the architecture of a 2D pixel game  
-- FSM for behavioural dynamics + stack-based FSM for AI  
-Focus: clean system design
-
 **Course Work**
 - Inverse/differential rendering project  
-- Microscopy interface with PSF modeling  
+- Microscopy interface with PSF modelling
+
+**Game Systems**
+- FSM for behavioural dynamics + stack-based FSM for AI  
+Focus: clean system design
 
 ---
 
