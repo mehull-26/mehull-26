@@ -36,9 +36,6 @@ Focus: numerical correctness and performance
 - Inverse/differential rendering project  
 - Microscopy interface with PSF modelling
 
-**Game Systems**
-- FSM for behavioural dynamics + stack-based FSM for AI  
-Focus: clean system design
 
 ---
 
